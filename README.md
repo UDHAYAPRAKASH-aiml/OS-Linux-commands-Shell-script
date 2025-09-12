@@ -926,7 +926,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
-<img width="401" height="408" alt="Screenshot 2025-09-07 122053" src="https://github.com/user-attachments/assets/f200b26e-55e4-4a75-a10c-cfd5a5e54f63" />
+
 
 cat fornested1.sh 
 ```bash
@@ -962,7 +962,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
-<img width="404" height="229" alt="Screenshot 2025-09-07 122316" src="https://github.com/user-attachments/assets/a3d90d60-96f0-4f10-9553-d9113df3fc30" />
+
 
 $ chmod 755 forbreak.sh
  
@@ -988,7 +988,7 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- <img width="540" height="211" alt="Screenshot 2025-09-07 122608" src="https://github.com/user-attachments/assets/8ddc8c7b-5fac-4ae2-96a7-d46e459ef998" />
+ 
 
 cat exread.sh 
 ```bash
@@ -1003,7 +1003,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
-<img width="540" height="211" alt="Screenshot 2025-09-07 122608" src="https://github.com/user-attachments/assets/03d190ff-d9ec-4e3a-a42e-21eee321c97c" />
+
 
 
  cat exread1.sh
@@ -1037,7 +1037,7 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
-<img width="460" height="510" alt="Screenshot 2025-09-07 141043" src="https://github.com/user-attachments/assets/cd18cb2d-3f0e-42cb-b25d-d2c606804bb6" />
+
 
  ./funcex.sh 
 
@@ -1056,7 +1056,6 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
-<img width="341" height="249" alt="Screenshot 2025-09-07 141353" src="https://github.com/user-attachments/assets/232efe1f-dec9-463b-96e9-b8b2e942a0d1" />
 
 $ ./argshift.sh 1 2 3
  
@@ -1075,7 +1074,6 @@ done
 ```
 $ chmod 777 argshift.sh
 ## OUTPUT
-<img width="349" height="120" alt="Screenshot 2025-09-07 141723" src="https://github.com/user-attachments/assets/99e6957c-b28a-4563-ae45-6fce7f946a9a" />
 
 $ ./argshift.sh 1 2 3
  
@@ -1122,8 +1120,7 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- <img width="389" height="380" alt="Screenshot 2025-09-07 142531" src="https://github.com/user-attachments/assets/4dc491b8-6f39-4e11-9ae6-c0f4d3f56a7f" />
-
+ 
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1150,7 +1147,7 @@ else
 fi
 ```
 ## OUTPUT 
-<img width="432" height="767" alt="Screenshot 2025-09-07 143249" src="https://github.com/user-attachments/assets/f8558fdc-27d3-4652-b6e8-a8548a43a494" />
+
 
 
 # RESULT:
