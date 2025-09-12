@@ -42,21 +42,20 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
-
-
+![WhatsApp Image 2025-09-12 at 14 40 34_5918cb88](https://github.com/user-attachments/assets/2f96b7b8-97b8-44aa-a761-dbce8b291771)
 cat < file2
 ## OUTPUT
+<img width="557" height="108" alt="image" src="https://github.com/user-attachments/assets/929e25ef-5208-4005-923d-17791b15789c" />
+
 
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+<img width="443" height="31" alt="image" src="https://github.com/user-attachments/assets/ea1d70db-6f52-409d-b78b-3ee50a496b00" />
 comm file1 file2
  ## OUTPUT
-
- 
+ <img width="457" height="108" alt="image" src="https://github.com/user-attachments/assets/88e3294f-dc0a-4857-83e2-1ca7ef0571ca" />
 diff file1 file2
 ## OUTPUT
 
