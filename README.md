@@ -809,7 +809,8 @@ done
 $ chmod 755 untiltest.sh
  
 ## OUTPUT
-<img width="611" height="230" alt="Screenshot 2025-09-07 120654" src="https://github.com/user-attachments/assets/7727daab-b272-4d0a-a4d5-93f7ccd3a160" />
+<img width="514" height="89" alt="image" src="https://github.com/user-attachments/assets/604318d5-ed15-42d0-b863-55b958f80dd7" />
+
  
 cat forin1.sh 
 ```bash
@@ -823,7 +824,7 @@ done
  
 $ chmod 755 forin1.sh
  ## OUTPUT
- <img width="639" height="391" alt="Screenshot 2025-09-07 121010" src="https://github.com/user-attachments/assets/9af54e3e-d775-433d-a770-0146051b4fe3" />
+ <img width="514" height="157" alt="image" src="https://github.com/user-attachments/assets/313d323a-6465-44b6-84df-e9a18fc112d1" />
 
  
 cat forin2.sh 
@@ -896,7 +897,8 @@ Bhadrachalam
 Khammam
 
 ## OUTPUT
-<img width="722" height="106" alt="Screenshot 2025-09-07 121332" src="https://github.com/user-attachments/assets/d427d219-f51e-4bcb-b5b3-047a0ec4aacf" />
+<img width="540" height="220" alt="image" src="https://github.com/user-attachments/assets/38738868-853a-45da-8312-14827d3cca20" />
+
 
 
 cat forctype.sh 
@@ -911,7 +913,8 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
-<img width="382" height="229" alt="Screenshot 2025-09-07 121828" src="https://github.com/user-attachments/assets/a071591a-397a-4947-9687-6bfc03e970ce" />
+<img width="540" height="103" alt="image" src="https://github.com/user-attachments/assets/656f9cbd-be76-4254-8887-3021e764effd" />
+
 
 cat forctype1.sh 
 ```bash
@@ -925,6 +928,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+<img width="535" height="231" alt="image" src="https://github.com/user-attachments/assets/d4c643a0-38ba-4639-8727-f6b5c3e485ed" />
 
 
 cat fornested1.sh 
@@ -944,6 +948,8 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
+ <img width="540" height="114" alt="image" src="https://github.com/user-attachments/assets/df3a8b3f-abe2-4d91-be1c-f2825b215846" />
+
 
  
 cat forbreak.sh 
@@ -961,6 +967,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+<img width="535" height="62" alt="image" src="https://github.com/user-attachments/assets/716fd9c8-2710-4044-aedf-1227f4861bc0" />
 
 
 $ chmod 755 forbreak.sh
@@ -987,7 +994,8 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+ <img width="491" height="72" alt="image" src="https://github.com/user-attachments/assets/7da658b2-d289-4c67-a3c0-d906086820bd" />
+
 
 cat exread.sh 
 ```bash
@@ -1002,6 +1010,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="545" height="110" alt="image" src="https://github.com/user-attachments/assets/9e36eda7-e227-4497-9826-f42658f11264" />
 
 
 
@@ -1013,10 +1022,6 @@ read -p "Enter your name: " name
 echo "Hello $name, welcome to my program. “
 ``` 
 $ chmod 755 exread1.sh 
-
-## OUTPUT
-
-
 
 $ ./exread1.sh 
  
@@ -1036,6 +1041,8 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
+<img width="503" height="48" alt="image" src="https://github.com/user-attachments/assets/513b9896-702b-4cbb-b6a8-3728bc0c63c8" />
+
 
 
  ./funcex.sh 
@@ -1055,6 +1062,7 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
+<img width="503" height="154" alt="image" src="https://github.com/user-attachments/assets/1e7c411e-e86c-402a-b0b9-138a75b7dbb9" />
 
 $ ./argshift.sh 1 2 3
  
@@ -1073,6 +1081,8 @@ done
 ```
 $ chmod 777 argshift.sh
 ## OUTPUT
+<img width="503" height="79" alt="image" src="https://github.com/user-attachments/assets/bae13126-bc18-4e02-b5e6-c543187948a5" />
+
 
 $ ./argshift.sh 1 2 3
  
@@ -1086,7 +1096,7 @@ while (( "$#" )); do
 done
 set +x
 ```
-## OUTPUT
+
  ./argshift.sh 1 2 3
  
  
@@ -1119,6 +1129,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
+<img width="523" height="249" alt="image" src="https://github.com/user-attachments/assets/04848c8d-92a0-406a-9f2b-9352ae763361" />
+
  
 cat > palindrome.sh
 ```bash
@@ -1146,6 +1158,8 @@ else
 fi
 ```
 ## OUTPUT 
+<img width="606" height="183" alt="image" src="https://github.com/user-attachments/assets/e6e4d46f-0dbe-4f4b-8c0b-e48ff4e981fe" />
+
 
 
 
